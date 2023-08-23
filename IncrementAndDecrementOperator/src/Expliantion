@@ -1,0 +1,10 @@
+Increment and Decrement Operators :
+ 
+ These are the Unary operators which will act upon a single operator .
+ Increment operator will increment the existing value by 1.
+ where as the Decrement operator will decrement the value by 1.
+ 
+ There are 2 Types of Increment and Decrement Operators :
+ 
+ 1) pre-increment and post-increment operator.
+ 2) pre_drecrement and post-decrement operator.   

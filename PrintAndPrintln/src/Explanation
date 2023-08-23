@@ -1,0 +1,5 @@
+The difference between 'print' & 'println' is that :
+
+println --> It prints the content on the console and bring's the cursor to the next line.
+
+print --> print's the data and hold's the cursor in the same line.
